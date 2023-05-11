@@ -41,6 +41,8 @@ const Navbar = () => {
         boxShadow={"rgba(99, 99, 99, 0.2) 0px 2px 8px 0px"}
         zIndex={999}
         pos={"fixed"}
+        background={"#fff"}
+       
         top={0}
         p={{ base: "10px", lg: "15px 30px" }}
         gap={"30px"}
