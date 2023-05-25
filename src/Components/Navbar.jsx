@@ -70,7 +70,7 @@ const Navbar = () => {
             gap={"30px"}
           >
             <Box className="dropdown">
-              <Link to="/" >MEN</Link>
+              <Link to="/mens" >MEN</Link>
               <Box className="dropdown-content">
                 <Box
                   w={"200%"}
@@ -180,7 +180,7 @@ const Navbar = () => {
             {/* ---------------------- */}
 
             <Box className="dropdown">
-              <Link to="/">WOMEN</Link>
+              <Link to="/womens">WOMEN</Link>
               <Box className="dropdown-content">
               <Box
                   w={"200%"}
@@ -289,7 +289,7 @@ const Navbar = () => {
             {/* ---------------------- */}
 
             <Box className="dropdown">
-              <Link to="/">KIDS</Link>
+              <Link to="/childern">KIDS</Link>
               <Box className="dropdown-content">
               <Box
                  w={"200%"}
@@ -396,7 +396,7 @@ const Navbar = () => {
             {/* ............................................ */}
 
             <Box className="dropdown">
-              <Link to="/">HOME & LIVING</Link>
+              <Link to="/home">HOME & LIVING</Link>
               <Box className="dropdown-content">
               <Box
                  w={"180%"}
@@ -513,7 +513,7 @@ const Navbar = () => {
             {/* ========================================== */}
 
             <Box className="dropdown">
-              <Link to="/">BEAUTY</Link>
+              <Link to="/beauty">BEAUTY</Link>
               <Box className="dropdown-content">
               <Box
                  w={"180%"}
